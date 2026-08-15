@@ -1,0 +1,16 @@
+Python IS Needed, (if you didnt install it already, it is needed for duckdrop's Main File.)
+
+
+Open CMD,
+
+Type 'pip install PyInstaller',
+
+Then 'python -m PyInstaller --noconsole --onefile duckdrop.py'
+
+
+----
+
+It should be in a folder named 'dist', it should be in there.
+
+TMK there is a way to modify the code and rewrite it as an .EXE file, but I don't remember (sorry!).
+Since duckdrop is lightweight, Personally I would keep installing duckdrop if I wanted to change anything if it's an .EXE.
