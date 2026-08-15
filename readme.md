@@ -6,3 +6,10 @@
 
 > [!WARNING]
 > This is only for sending files you own. Do not use it on other people’s computers, This is for educational/personal use only. I am not responsible for misuse.
+---
+
+# Installation:
+In the Github Repo, click the green 'Code' button, then Download ZIP.
+From the File Manager App you have, Extract it and Double click duckdrop.py (Python is Needed).
+
+Check out Creator.txt for tips on creating it as an .EXE file.
